@@ -1,7 +1,6 @@
-| Date       | Étape                       | Statut  |
-|------------|----------------------------|---------|
-| 2025-03-07 | Création du dépôt GitHub   | ✅ Terminé |
-| 2025-03-08 | Ajout du fichier README.md | ✅ Terminé |
-| 2025-03-10 | Développement du site web  | 🔄 En cours |
-| 2025-03-15 | Tests et corrections       | ⏳ À faire |
-| 2025-03-20 | Déploiement du projet      | ⏳ À faire |
+| Date       | Étape                       |
+|------------|----------------------------|
+| 2025--01-31 | Création du site | 
+| 2025-02-06 | Développement du site et recherche pour un sujet |
+| 2025-02-28 | recherche dans le theme des fractales <br> peut-être Rublik's cube |
+| 2025-03-07 | Déploiement du projet |
