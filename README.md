@@ -1,6 +1,7 @@
 | Date       | Étape                       |
 |------------|----------------------------|
-| 2025-01-31 | Création du site | 
-| 2025-02-06 | Développement du site et recherche pour un sujet |
-| 2025-02-28 | recherche dans le theme des fractales <br> peut-être Rublik's cube |
-| 2025-03-07 | Rien trouvé pour l'instant |
+| 31 janvier | Création du site | 
+| 6 février | Développement du site et recherche pour un sujet |
+| Vacances | Recherche d'un sujet pour le TIPE |
+| 28 février | recherche dans le theme des fractales <br> peut-être Rublik's cube |
+| 7 mars | Rien trouvé pour l'instant |
