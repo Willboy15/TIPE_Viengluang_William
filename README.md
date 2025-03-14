@@ -5,3 +5,4 @@
 | Vacances | Recherche d'un sujet pour le TIPE en rapport <br> avec mes centres d'interêts. |
 | 28 février | recherche dans le theme des fractales <br> peut-être Rublik's cube. |
 | 7 mars | Rien trouvé pour l'instant. |
+| 14 mars | Recherche dans les annales de maths, physique et <br> infos, aussi dans les accélérateurs de particules. | 
